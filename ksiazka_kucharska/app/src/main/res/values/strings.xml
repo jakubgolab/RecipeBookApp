@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">ksiazka_kucharska</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="recipe_name">
+        <item>Przepis 1</item>
+        <item>Przepis 2</item>
+        <item>Przepis 3</item>
+        <item>Przepis 4</item>
+        <item>Przepis 5</item>
+        <item>Przepis 6</item>
+        <item>Przepis 7</item>
+        <item>Przepis 8</item>
+        <item>Przepis 9</item>
+        <item>Przepis 10</item>
+        <item>Przepis 11</item>
+        <item>Przepis 12</item>
+        <item>Przepis 13</item>
+        <item>Przepis 14</item>
+        <item>Przepis 15</item>
+    </string-array>
+
+
+    <string-array name="recipe_ingredients">
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+        <item>pomidor, ogórek, szczypiorek, marchewka, groszek, pietruszka, woda</item>
+    </string-array>
+
+
+    <string-array name="recipe_preparation">
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+        <item>Pomidor doładnie umyj i obierz ze skórki. Wymieszaj resztę składników, tak aby powstała jednolita masa. Tak powstały wyrób odstaw do lodówki na 24 godziny. Po tym czasie przelej wszystko do foremki i włóż do piekarnika na 1h, temp. 180 stopni. Najlepiej podawać schłodzone.</item>
+    </string-array>
+
+
+</resources>
